@@ -1,0 +1,19 @@
+.dog-image__btn {
+    padding: 10px 40px;
+    font-size: 26px;
+    font-weight: 400;
+    color: #ffffff;
+    font-weight: 600;
+    text-shadow: 0 0 2px #868686;
+    background-color: #70ec8d;
+    border: none;
+    outline: 2px solid #07c533;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .2s linear;
+}
+
+.dog-image__btn:hover {
+    transform: scale(1.05);
+    background-color: #73fd94;
+}

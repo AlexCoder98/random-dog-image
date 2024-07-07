@@ -1,0 +1,10 @@
+.dog-image__result-panel {
+    padding: 20px 50px;
+}
+
+.dog-image__no-result-h2 {
+    margin-top: 10rem;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+}
